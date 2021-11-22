@@ -3,7 +3,7 @@ import numpy as np
 from flask import Flask, request, jsonify, render_template
 import pickle
 
-app = Flask(__name__, template_folder='C:/Users/notar/Desktop/ProjectsDataScience/Diabetes/Web_app')
+app = Flask(__name__)
 
 model = pickle.load(open('model.pkl', 'rb')) # rb reading binary in Windows
 
