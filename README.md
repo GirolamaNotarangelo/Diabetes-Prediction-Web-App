@@ -44,4 +44,4 @@ The project was developed using Python 3.8.3 with the following packages.
 - Working on understanding and evaluating which combinations of symptoms and factors give higher percentage of positive prediction.
 =======
 - Working on understanding and evaluating which combinations of symptoms and factors give higher percentage of positive prediction.
->>>>>>> 568b42be1ff1bb4a1c5b8d2be67142c4a6ade793
+
