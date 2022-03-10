@@ -1,0 +1,9 @@
+I learnt about building the web-app watching this video https://www.youtube.com/watch?v=mrExsjcvF4o of Krish Naik.
+
+Instructions for web-app:
+
+- After running the Diabetes prediction model got to terminal
+- Move on the path where the app.py is saved
+- Type app.py on terminal
+- If you want to see a local version of the app on your computer, go to browser and type http://127.0.0.1:5000/ (you will find this numer on terminal after running app.py)
+- If you want to modify the aspect of your web-app just open Index.html with a Text editor (i.e. Notepad) and edit it.
