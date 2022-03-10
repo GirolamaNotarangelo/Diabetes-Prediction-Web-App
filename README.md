@@ -41,5 +41,5 @@ The project was developed using Python 3.8.3 with the following packages.
 - It would be useful to work with a bigger dataset in order to improve the predictive model.
 - Would be nice to create a better looking  web-app. An idea could be the use of  Streamlit.
 - Working on understanding and evaluating which combinations of symptoms and factors give higher percentage of positive prediction.
-- Working on understanding and evaluating which combinations of symptoms and factors give higher percentage of positive prediction.
+
 
