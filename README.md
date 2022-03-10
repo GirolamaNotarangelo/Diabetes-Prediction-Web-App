@@ -25,6 +25,7 @@ The dataset has been downloaded from  [UCI Machine Learning Repository ](https:/
 - Linear Regression model
 - Random Forest
 - Gradient Boosting
+- Cross validation for each algorithm
 
 The project was developed using Python 3.8.3 with the following packages.
 
