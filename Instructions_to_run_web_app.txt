@@ -1,5 +1,3 @@
-I learnt about building the web-app watching this video https://www.youtube.com/watch?v=mrExsjcvF4o of Krish Naik.
-
 Instructions for web-app:
 
 - After running the Diabetes prediction model got to terminal
