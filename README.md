@@ -5,7 +5,7 @@ Diabetes is a chronic (long-lasting) health condition that causes a person's blo
 With a relatively long asymptomatic phase, early intervention is very important in stopping the progression and damages of Diabetes. The early diagnosis of diabetes is only possible by proper assessment of certain factors and symptoms.
 
 ## AIM
-With this project I want to build a model that predict if a patient is at risk to be diagnosed to have diabetes or not based on a list of some factors and early symptoms. I then built a web app to deploy my model using Flask and Heroku. YOu can check the web app here https://predict-diab.herokuapp.com/
+With this project I want to build a model that predict if a patient is at risk to be diagnosed to have diabetes or not based on a list of some factors and early symptoms. I then built a web app to deploy my model using Flask and Heroku. You can check the web app here https://predict-diab.herokuapp.com/
 
 ## DATASET
 
